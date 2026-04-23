@@ -10,7 +10,7 @@ import SwiftUI
 @main
 struct ios2App: App {
     init() {
-        clearUserDefaults()
+        //clearUserDefaults()
     }
 
     var body: some Scene {
