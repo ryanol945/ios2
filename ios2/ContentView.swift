@@ -77,8 +77,6 @@ struct ContentView: View {
             let topPadding: CGFloat = 20
             let bottomPadding: CGFloat = 20
             
-            let playableHeight = geo.size.height - topPadding - bottomPadding
-            
             ZStack {
                 Color.white.ignoresSafeArea()
                 
